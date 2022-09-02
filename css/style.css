@@ -181,7 +181,7 @@ section {
 
 .section-info1 .section-h2 {
   width: 90%;
-  margin: auto;
+  margin: 0 auto;
   color: var(--color-dorado);
   text-align: center;
   background-color: #30290517;
